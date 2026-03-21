@@ -118,7 +118,7 @@ From Peng to Neopen — open source, open mind, open heart, open future.
 ### 📬 Connect with Me
 
 - 📧 Email: [helpenx@gmail.com](mailto:helpenx+github@gmail.com)
-- 🌐 Blog: [https://pengline.github.io](https://pengline.github.io/)
+- 🌐 Blog: [pengline.github.io](https://pengline.github.io/)
 - 💼 GitHub: [github.com/neopen](https://github.com/neopen)
 
 ---

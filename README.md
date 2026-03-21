@@ -1,15 +1,13 @@
-# 👋 Hi, I'm Peng (Neopen)
+### 🖊️ *Neopen*: A new pen, a new start.
 
-### 🖊️ *Neopen*: A new pen, a new start.   open source, open mind, open heart.
+open source, open mind, open heart.
 
 ### 🚀 A new Peng, a new start.
 
-欢迎来到我的代码世界！我是一名热爱开源的开发者，专注于 **Java 企业级应用** 与 **AI Agent/AIGC** 的融合探索。  
+欢迎来到我的代码世界！我是一名热爱开源的开发者，专注于 **Java 企业级应用** 与 **AI Agent/AIGC（NLP、C多模态）** 的融合探索。  
 对我来说，每一次 Commit 都是新的起笔，每一个项目都是新的开始。
 
 ---
-
-### 🛠️ Tech Stack & Focus
 
 ### 🛠️ Tech Stack & Focus
 

@@ -1,10 +1,19 @@
-### 🖊️ *Neopen*: A new pen, a new start.
+### 🖊️ *Neopen*: A new pen. A new start. A new world.
 
-open source, open mind, open heart.
+<div align="center">
+███╗   ██╗  ███████╗   ██████╗   ██████╗   ███████╗  ███╗   ██╗
+████╗  ██║  ██╔════╝  ██╔═══██╗  ██╔══██╗  ██╔════╝  ████╗  ██║
+██╔██╗ ██║  █████╗    ██║   ██║  ██████╔╝  █████╗    ██╔██╗ ██║
+██║╚██╗██║  ██╔══╝    ██║   ██║  ██╔═══╝   ██╔══╝    ██║╚██╗██║
+██║ ╚████║  ███████╗  ╚██████╔╝  ██║       ███████╗  ██║ ╚████║
+╚═╝  ╚═══╝  ╚══════╝   ╚═════╝   ╚═╝       ╚══════╝  ╚═╝  ╚═══╝
+
+*From Peng to Neopen — open source, open mind, open heart, open future.*
+</div>
 
 ### 🚀 A new Peng, a new start.
 
-欢迎来到我的代码世界！我是一名热爱开源的开发者，专注于 **Java 企业级应用** 与 **AI Agent/AIGC（NLP、C多模态）** 的融合探索。  
+欢迎来到我的代码世界！我是一名热爱开源的开发者，专注于 **Java 企业级应用** 与 **AI Agent/AIGC（NLP、CV、多模态）** 的融合探索。  
 对我来说，每一次 Commit 都是新的起笔，每一个项目都是新的开始。
 
 ---

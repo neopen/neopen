@@ -1,18 +1,17 @@
-### 🖊️ *Neopen*: A new pen. A new start. A new world.
-
 <div align="center">
 <pre>
-███╗   ██╗  ███████╗   ██████╗   ██████╗   ███████╗  ███╗   ██╗
-████╗  ██║  ██╔════╝  ██╔═══██╗  ██╔══██╗  ██╔════╝  ████╗  ██║
-██╔██╗ ██║  █████╗    ██║   ██║  ██████╔╝  █████╗    ██╔██╗ ██║
-██║╚██╗██║  ██╔══╝    ██║   ██║  ██╔═══╝   ██╔══╝    ██║╚██╗██║
-██║ ╚████║  ███████╗  ╚██████╔╝  ██║       ███████╗  ██║ ╚████║
-╚═╝  ╚═══╝  ╚══════╝   ╚═════╝   ╚═╝       ╚══════╝  ╚═╝  ╚═══╝
+ ███╗   ██╗ ███████╗  ██████╗  ██████╗  ███████╗ ███╗   ██╗
+ ████╗  ██║ ██╔════╝ ██╔═══██╗ ██╔══██╗ ██╔════╝ ████╗  ██║
+ ██╔██╗ ██║ █████╗   ██║   ██║ ██████╔╝ █████╗   ██╔██╗ ██║
+ ██║╚██╗██║ ██╔══╝   ██║   ██║ ██╔═══╝  ██╔══╝   ██║╚██╗██║
+ ██║ ╚████║ ███████╗ ╚██████╔╝ ██║      ███████╗ ██║ ╚████║
+ ╚═╝  ╚═══╝ ╚══════╝  ╚═════╝  ╚═╝      ╚══════╝ ╚═╝  ╚═══╝
 </pre>
-*From Peng to Neopen — open source, open mind, open heart, open future.*
+<b>A new pen. A new start. A new world.</b><br>
+From Peng to Neopen — open source, open mind, open heart, open future.
 </div>
 
-### 🚀 A new Peng, a new start.
+### 🚀 About Me
 
 欢迎来到我的代码世界！我是一名热爱开源的开发者，专注于 **Java 企业级应用** 与 **AI Agent/AIGC（NLP、CV、多模态）** 的融合探索。  
 对我来说，每一次 Commit 都是新的起笔，每一个项目都是新的开始。
@@ -45,7 +44,6 @@
         <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" />
         <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat&logo=spring-cloud&logoColor=white" />
         <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white" />
         <img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white" />
         <img src="https://img.shields.io/badge/Lombok-003399?style=flat&logo=lombok&logoColor=white" />
       </p>
@@ -60,7 +58,6 @@
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
         <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white" />
         <img src="https://img.shields.io/badge/Milvus-000000?style=flat&logo=linux&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pinecone-000000?style=flat" />
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
       </p>
     </td>

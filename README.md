@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=6DB33F&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Peng.+Welcome+to+Neopen.;A+new+pen.+A+new+start.+A+new+world.;Java+%2B+AI+Agent+%7C+From+Peng+to+Neopen;Open+source.+Open+mind.+Open+heart.+Open+future.;Every+commit+is+a+new+stroke." alt="Neopen Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&size=20&duration=2800&pause=800&color=6DB33F&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Peng.+Welcome+to+Neopen.;A+new+pen.+A+new+start.+A+new+world.;Java+%2B+AI+Agent+%7C+From+Peng+to+Neopen;Open+source.+Open+mind.+Open+heart.+Open+future.;Every+commit+is+a+new+stroke." alt="Neopen Typing SVG" />
 </div>
 <div align="center">
 <pre>

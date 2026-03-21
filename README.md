@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Peng (Neopen)
 
-### 🖊️ Neopen: A new pen, a new start.
+### 🖊️ Neopen: A new pen, a new start. open source, open mind, open heart.
 
 ### 🚀 A new Peng, a new start.
 

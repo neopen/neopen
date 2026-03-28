@@ -37,8 +37,6 @@ From Peng to Neopen — open source, open mind, open heart, open future.
           <img src="https://img.shields.io/badge/vLLM-00A86B?style=flat" />
           <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
           <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat" />
-          <img src="https://img.shields.io/badge/LangChain4j-007396?style=flat&logo=java&logoColor=white" />
-          <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=flat&logo=spring&logoColor=white" />
           <img src="https://img.shields.io/badge/AutoGen-00A98F?style=flat" />
           <img src="https://img.shields.io/badge/GraphRAG-8A2BE2?style=flat" />
           <img src="https://img.shields.io/badge/RAG-FF4D4D?style=flat" />
@@ -69,6 +67,8 @@ From Peng to Neopen — open source, open mind, open heart, open future.
         <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white" />
         <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white" />
         <img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangChain4j-007396?style=flat&logo=java&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=flat&logo=spring&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -118,7 +118,7 @@ From Peng to Neopen — open source, open mind, open heart, open future.
 ### 📬 Connect with Me
 
 - 📧 Email: [helpenx@gmail.com](mailto:helpenx+github@gmail.com)
-- 🌐 Blog: [pengline.github.io](https://pengline.github.io/)
+- 🌐 Blog: [pengline.cn](https://pengline.cn/)
 - 💼 GitHub: [github.com/neopen](https://github.com/neopen)
 
 ---

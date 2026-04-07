@@ -11,7 +11,7 @@
  ╚═╝  ╚═══╝ ╚══════╝  ╚═════╝  ╚═╝      ╚══════╝ ╚═╝  ╚═══╝
 </pre>
 <b>A new pen. A new start. A new world.</b><br>
-From Peng to Neopen — open source, open mind, open heart, open future.
+From Peng to Neopen — open source, open mind, open heart, open future.<br>
 Using the Neo pen to rewrite the rules.
 </div>
 

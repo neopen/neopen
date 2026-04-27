@@ -15,19 +15,19 @@ From Peng to Neopen — open source, open mind, open heart, open future.<br>
 Using the Neo pen to rewrite the rules.
 </div>
 
-### 🚀 About Me
+## About Me
 
 欢迎来到我的代码世界！我是一名热爱开源的开发者，专注于 **Java 企业级应用** 与 **AI Agent/AIGC（NLP、CV、多模态）** 的融合探索。  
 对我来说，每一次 Commit 都是新的起笔，每一个项目都是新的开始。
 
 ---
 
-### 🛠️ Tech Stack & Focus
+## Tech Stack & Focus
 
 <table>
   <tr>
     <td valign="top" width="50%">
-        <h4>🤖 AI & Agents (Core Focus)</h4>
+        <h4>AI & Agents (Core Focus)</h4>
         <p>Building intelligent systems with LLMs & Agents</p>
         <p>
           <img src="https://img.shields.io/badge/LLM-FF9900?style=flat&logo=google&logoColor=white" />
@@ -52,7 +52,7 @@ Using the Neo pen to rewrite the rules.
         </p>
     </td>
     <td valign="top" width="50%">
-      <h4>☕ Java Ecosystem</h4>
+      <h4>Java Ecosystem</h4>
       <p>Enterprise-grade backend & microservices</p>
       <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
@@ -75,7 +75,7 @@ Using the Neo pen to rewrite the rules.
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h4>🗄️ Data & Storage</h4>
+      <h4>Data & Storage</h4>
       <p>Structured, time-series, analytical & messaging data</p>
       <p>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
@@ -95,7 +95,7 @@ Using the Neo pen to rewrite the rules.
       </p>
     </td>
     <td valign="top" width="50%">
-      <h4>🚀 DevOps & Cloud</h4>
+      <h4>DevOps & Cloud</h4>
       <p>Deployment, CI/CD & Infrastructure</p>
       <p>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
@@ -116,7 +116,7 @@ Using the Neo pen to rewrite the rules.
 
 ---
 
-### 📬 Connect with Me
+## Connect with Me
 
 - 📧 Email: [helpenx@gmail.com](mailto:helpenx+github@gmail.com)
 - 🌐 Blog: [pengline.cn](https://pengline.cn/)

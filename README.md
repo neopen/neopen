@@ -17,8 +17,8 @@ Using the Neo pen to rewrite the rules.
 
 ## About Me
 
-欢迎来到我的代码世界！我是一名热爱开源的开发者，专注于 **Java 企业级应用** 与 **AI Agent/AIGC（NLP、CV、多模态）** 的融合探索。  
-对我来说，每一次 Commit 都是新的起笔，每一个项目都是新的开始。
+欢迎来到我的代码世界！我是一名热爱开源的开发者，专注于 **Java 企业级应用** 与 **Agent/AIGC** 的融合探索。  
+每一次 Commit 都是新的起笔，每一个项目都是新的开始。
 
 ---
 

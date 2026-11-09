@@ -116,7 +116,7 @@ Using the Neo pen to rewrite the rules.
 
 ## Connect with Me
 
-- 🎛️ HelpEnx: [HelpEnx 工作台](https://helpenx.com/)
+- 🎛️ HelpEnx: [HelpEnX Hub](https://helpenx.com/)
 - 📧 Email: [helpenx@gmail.com](mailto:helpenx+github@gmail.com)
 - 🌐 Blog: [pengline.cn](https://pengline.cn/)
 - 🛠️ Tools: [helpoke.com](https://helpoke.com/)

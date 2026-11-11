@@ -16,7 +16,8 @@ Using the Neo pen to rewrite the rules.
 </div>
 
 ## About Me
-一名热爱开源的开发者，专注于 **Java 企业级应用** 与 **Agent/AIGC** 的融合探索。
+一名热爱开源的开发者，专注于 **Java 企业级应用** 与 **Agent/AIGC** 的融合探索。<a href="https://helpenx.com">HelpEnX Hub(数字工坊)
+</a>
 
 ---
 

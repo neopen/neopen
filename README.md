@@ -16,7 +16,7 @@ Using the Neo pen to rewrite the rules.
 </div>
 
 ## About Me
-一名热爱开源的开发者，专注于 **Java 企业级应用** 与 **Agent/AIGC** 的融合探索。<a href="https://helpenx.com">HelpEnX Hub（星阵万象）
+一名热爱开源的开发者，专注于 **Java 企业级应用** 与 **Agent/AIGC** 的融合探索。<a href="https://helpenx.com">HelpenX Hub（星阵万象）
 </a>
 
 ---
@@ -117,7 +117,7 @@ Using the Neo pen to rewrite the rules.
 
 ## Connect with Me
 
-- 🎛️ HelpEnx: [HelpEnX Hub](https://helpenx.com/)
+- 🎛️ HelpEnx: [HelpenX Hub](https://helpenx.com/)
 - 📧 Email: [helpenx@gmail.com](mailto:helpenx+github@gmail.com)
 - 🌐 Blog: [pengline.cn](https://pengline.cn/)
 - 🛠️ Tools: [helpoke.com](https://helpoke.com/)
